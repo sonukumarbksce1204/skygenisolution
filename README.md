@@ -15,7 +15,7 @@ database='data_engineer_db'
 Output of the program 
 
 Results:
-Finance/Blockchain clients: 47 '\n'
+Finance/Blockchain clients: 47 
 Top renewal industry: Gaming (72.73%)
 Avg inflation at renewal: 4.44% 
 Median payments by year:
